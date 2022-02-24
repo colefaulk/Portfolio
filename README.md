@@ -1,2 +1,2 @@
 # Portfolio
-Just a little taste of what of worked on
+Just a little taste of what I've worked on
